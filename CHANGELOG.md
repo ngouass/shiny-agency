@@ -9,33 +9,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Unreleased]: https://github.com/tognia/shiny-agency/tree/master
 
-## [1.3.0] - 2021-10-07 
-### Added
-- Feature homapage.html added to the src folder commit "Ajout du fichier src/homepage.html 07102021"
+## [0.1.1] - 2021-10-07
+### Changed
+- Menu of our first feature src/components/Header/index.jsx changed. Titles updated
 
 
-## [1.2.0] - 2021-10-07 
+## [0.1.0] - 2021-10-07
 ### Added
-- Feature firstFeature added to the src/features folder commit "Ajout de la fonctionnalité firstFeature dans src/Features 07102021" Branch "featureMYFEATURE"
-- Feature MYFEATURE deleted from src commit "Ajout de la fonctionnalité firstFeature dans src/Features 07102021" on Branch "featureMYFEATURE"  
+- Folder of components src/components created
+- Firts folder of our first feature Header and its index.jsx created inside of the components folder
 
-## [1.1.0] - 2021-10-06 
+## [0.0.0] - 2021-10-07
 ### Added
-- Feature MYFEATURE added to the src folder commit "Ajout fonctionnalité MYFEATURE" Branch "featureMYFEATURE" 
-
-## [1.0.0] - 2021-10-05
-### Added
-- The folder API which contains the data
-
-## [0.0.1] - 2021-10-05
-### Added
-- CHANGELOG has been added to the Base version of shiny-agency app
-- This CHANGELOG file to hopefully serve as an evolving example of a
-  standardized open source project CHANGELOG.
-- CNAME file to enable GitHub Pages custom domain
-- README now contains answers to common questions about CHANGELOGs
-- Good examples and basic guidelines, including proper date formatting.
-- Counter-examples: "What makes unicorns cry?"
+- Code Base files added to the repo
 
 
 [Unreleased]: 
