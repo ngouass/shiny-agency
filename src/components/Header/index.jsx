@@ -29,10 +29,10 @@ function Header() {
           Accueil
         </StyledLink>
         <StyledLink $theme={theme} to="/freelances">
-          Profils
+          Profils des pros
         </StyledLink>
         <StyledLink to="/survey/1" $isFullLink>
-          Faire le test
+          Passer le test
         </StyledLink>
       </div>
     </NavContainer>
