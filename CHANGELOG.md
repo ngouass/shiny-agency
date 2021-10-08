@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Unreleased]: https://github.com/tognia/shiny-agency/tree/master
 
+## [1.0.0] - 2021-10-08
+### Added
+- API added ./API for retrieving data neeeded in the project ./API
+
 ## [0.5.0] - 2021-10-08
 ### Added
 - Feature src/components/EmailInput/index.jsx and src/components/EmptyList/index.jsx  added
@@ -45,6 +49,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.0.1]: https://github.com/tognia/shiny-agency/tree/master
 ### Added
 - Basics sources of the app   
+[1.0.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/API
 [0.5.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/EmailInput
 [0.4.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Card
 [0.3.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Error
