@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Unreleased]: https://github.com/tognia/shiny-agency/tree/master
 
+## [0.2.0] - 2021-10-07
+### Added
+- Feature src/components/Footer/index.jsx added
+- Test file index.js for the feature also added
+
 ## [0.1.1] - 2021-10-07
 ### Changed
 - Menu of our first feature src/components/Header/index.jsx changed. Titles updated
