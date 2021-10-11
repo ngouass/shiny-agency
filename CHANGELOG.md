@@ -51,7 +51,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Unreleased]: 
 [0.0.1]: https://github.com/tognia/shiny-agency/tree/master
 ### Added
-- Basics sources of the app   
+- Basics sources of the app 
+[1.1.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/MyComponent     
 [1.0.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/API    
 [0.5.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/EmailInput    
 [0.4.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Card   
