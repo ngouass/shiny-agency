@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Unreleased]: https://github.com/tognia/shiny-agency/tree/master
 
+<<<<<<< HEAD
 ## [1.1.0] - 2021-10-08
 ### Added
 - Feature src/components/MyComponent/index.jsx added
@@ -20,6 +21,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Feature src/components/EmailInput/index.jsx and src/components/EmptyList/index.jsx  added
 
+=======
+## [1.0.0] - 2021-10-08
+### Added
+- API added ./API for retrieving data neeeded in the project
+
+## [0.5.0] - 2021-10-08
+### Added
+- Feature src/components/EmailInput/index.jsx and src/components/EmptyList/index.jsx  added
+
+>>>>>>> release/firstdeploy
 ## [0.4.0] - 2021-10-08
 ### Added
 - Feature src/components/Card/index.jsx added
@@ -32,12 +43,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Feature src/components/Footer/index.jsx added
 - Test file index.js for the feature also added
+<<<<<<< HEAD
 
 ## [0.1.1] - 2021-10-07
 ### Changed
 - Menu of our first feature src/components/Header/index.jsx changed. Titles updated
 
 
+=======
+
+## [0.1.1] - 2021-10-07
+### Changed
+- Menu of our first feature src/components/Header/index.jsx changed. Titles updated
+
+
+>>>>>>> release/firstdeploy
 ## [0.1.0] - 2021-10-07
 ### Added
 - Folder of components src/components created
@@ -51,6 +71,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Unreleased]: 
 [0.0.1]: https://github.com/tognia/shiny-agency/tree/master
 ### Added
+<<<<<<< HEAD
 - Basics sources of the app 
 [1.1.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/MyComponent     
 [1.0.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/API    
@@ -59,3 +80,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.3.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Error    
 [0.2.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Footer   
 [0.1.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Header   
+=======
+- Basics sources of the app
+
+[1.0.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/API
+[0.5.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/EmailInput
+[0.4.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Card
+[0.3.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Error
+[0.2.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Footer
+[0.1.0]:https://github.com/ZiyoumaSchool/shiny-agency/tree/develop/src/components/Header
+>>>>>>> release/firstdeploy
