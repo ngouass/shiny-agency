@@ -73,7 +73,9 @@ function Survey() {
   function saveReply(answer) {
     saveAnswers({ [questionNumber]: answer })
   }
-  const { data, isLoading, error } = useFetch(`http://localhost:8000/survey`)
+  //const { data, isLoading, error } = useFetch(`http://localhost:8000/survey`)
+  const { data, isLoading, error } = useFetch(`https://api-shiny-agency.herokuapp.com/survey`)
+  
   const surveyData = data?.surveyData
 
   if (error) {
