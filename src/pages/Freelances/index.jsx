@@ -51,7 +51,7 @@ function Freelances() {
     <div>
       <PageTitle theme={theme}>Trouvez votre prestataire</PageTitle>
       <PageSubtitle theme={theme}>
-        Chez ZIYOUMA nous réunissons les meilleurs profils pour vous.
+        Chez ZIYOUMA-AGENCY nous réunissons les meilleurs profils pour vous.
       </PageSubtitle>
       {isLoading ? (
         <LoaderWrapper>
